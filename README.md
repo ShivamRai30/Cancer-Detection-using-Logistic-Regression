@@ -1,5 +1,5 @@
 # Cancer-Detection-using-Logistic-Regression
-In this Data Science Project I will perform Multivaraite analysis and detect breast cancer by applying a logistic regression model on a real-world dataset and predict whether a tumor is benign (not breast cancer) or malignant (breast cancer) based off its characteristics.
+In this Data Science Project I will perform Multivariate analysis and detect breast cancer by applying a logistic regression model on a real-world dataset and predict whether a tumor is benign (not breast cancer) or malignant (breast cancer) based off its characteristics.
 ![cancer_topic_1024](https://github.com/user-attachments/assets/78e4b905-5b1d-4d11-bdce-aa8589217f5d)
 
 
